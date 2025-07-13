@@ -1,4 +1,4 @@
-# 🛠️ Wordlist Bruteforce Generator CLI
+# 🛠️ Wordlist Bruteforce Generator
 
 Tools CLI untuk membuat **wordlist targeted** berdasarkan informasi target (nama, tanggal lahir, alamat, dll) untuk kebutuhan pentest bruteforce secara **fokus dan efektif**.
 
@@ -12,7 +12,7 @@ Tools CLI untuk membuat **wordlist targeted** berdasarkan informasi target (nama
 ✅ Menentukan panjang min-max  
 ✅ Auto save hasil ke `results/wordlist_generated.txt`  
 ✅ Output berwarna, responsif di Termux  
-✅ Siap untuk GitHub portfolio hacking CLI
+✅ Untuk cek hasil gunakan `less results/wordlist_generated.txt`
 
 ---
 
